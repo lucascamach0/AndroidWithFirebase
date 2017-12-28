@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ojdbc7-12.1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.easyproject/ojdbc7/12.1.0.1/848e6e3ee917c099cfd0e8112f85339ca9af2703/ojdbc7-12.1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.easyproject/ojdbc7/12.1.0.1/bd625a289fe90676553fa1bee590d6553ddd8022/ojdbc7-12.1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

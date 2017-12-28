@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c5eb73cf36a4b09344f2e97af6006f90acb17ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\0b54b4d1497990e15a39d5b4ffed96cd18058549\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_0c39f7e1cf16b5a7004e16aae9191418cd8f0817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.gradle\caches\modules-2\files-2.1\cn.easyproject\ojdbc7\12.1.0.1\848e6e3ee917c099cfd0e8112f85339ca9af2703\ojdbc7-12.1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="848e6e3ee917c099cfd0e8112f85339ca9af2703">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\ojdbc7-12.1.0.1_3f65b152f3bfbc4b0a71bf096579f623c12dd44c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\5efdb6c82c16fec56b00605aa1d418b143bd1ece\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_3a09c395ca199af86dcba0dcc1c99a798cb94f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_dc0c0f03ffadd9221c6a4912f47b912e6ee8150b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\573c5e477a6616d0517afbcfcae3465af4553562\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_4dd786053f1fc365ebc694ce07a5b1b3a487269b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\254f2520f0656526798d2582ebc41644a4609d34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_076964f8c8a7922df810d0d83048718412768ee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\94745e1795aee6308b69174051c97d87d6293f81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_4edbb9dfe4162ccb72ab70760e1757e98d673951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\c3aff195132137261384966886ab540dfb2ac375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_a3c26a5c45abc73b2b4d21d219d2e4ffae6162f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\12a108ed1ce3e35a1c1b60dc8e0b0250aaa3fc39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_0df567a4a96f40b2e37bf6501bf2477e4c14c7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\557f3e62dbe040844bc15b9fca88e846e4579c6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_173191b1098b625321b655b90204f3d1839f5517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\59e8b6ca60d819ed2b16c4592b8d735bdde047dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_a208f1f22048517f1fd1fc1c1aeb0cc6ed45947b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f3392d1efb3f08c4d986a7ea8a83c5e7ed1602bc">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d674ea30eb4c7650fc4e14d78589fed7f8f292fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\9f6ba3242dd733b407d7968344f30d3e1a181748\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_fb0ffea59ed7aa645890fc6eb9daacab195a23a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\b858373dd44c90c7925c3b0e398fa76b14281265\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_d249ba42e8ab80a3cd695ee03d440d8fd88b443f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\8c64a0797dd65021e73616f1838399e6b542a444\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_92fce693fe357637b94d4bdf171ae7e4818b0e55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\abe9e0ed811abd05821732743f324e4ec60907e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_923921885a1535d61405287dec7a777346820112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\ced57438aea0b3aafac047d35363945b98b0ef3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_119eef4f3f7cf3ceda0124efa0e2bd2a48a424f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\8440b7c404f6ea2fc7cf87f86989f750a89363aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_9748346ed1502bb1086bf9f8360e3913829793e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\d30fa7b572d916b185bf89b34bc2e164abc91116\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_88740889cada5bca8b8a194e15099ddc085c101e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\92cbdf1693f1cdaaf25dbb55de28c30e097503af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_3f0ec1da9f5c3ccbe4efadd85c9304d709ae0b58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\a318fbc5c52cf885bdbd5386796e7b5d2a766b25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_7c10bc41d8b9ccd4b4c006b6576096304f94011b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\cc01058d06abdc10f496886e5e28952eb0c2b916\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_272e404b81d7efd5c86a00a8472a94f6635c1ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a53b16b62649758c75c86dc9e7288e2f19b8c299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\e00b768c954bd16dd3b5d98a783e7945075125d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_dd8bb64e7cba1aeff313edfcc283138aae5db0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\12750b32acf215ba3b727c9ff9d7277ca8653c56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_dc3961d82f1ab5bd541676ade3f82fccd455271c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\aa691718b48af2ef6cde5238557eb87d98580f28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_94fb8e87b0734f3f79c5a0e00c5101c745404a1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lcamacho\.android\build-cache\99c7b9cd5faeeca785f409a67a72fdf8cf46fcec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\lcamacho\Documents\workspace\FirstApplication\app\build\intermediates\pre-dexed\debug\classes_2fd7c1260d12aa7141d307904a8244b2d1fa141b.jar" />
+    </item>
+
+</items>
